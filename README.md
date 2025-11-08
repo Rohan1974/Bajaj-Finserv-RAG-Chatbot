@@ -99,6 +99,7 @@ ________________________________________________________________________________
 5.	Answer + citations →  displayed in Streamlit chat.
 _____________________________________________________________________________________________________________________________________________________________________________________________
 **Summary/Conclusion:**
+
 This chatbot demonstrates how RAG pipelines can be used to build document-specific AI assistants.
 It ensures accurate, source-grounded answers using FAISS retrieval and Groq’s LLM power, wrapped in a simple and user-friendly Streamlit interface.
 _____________________________________________________________________________________________________________________________________________________________________________________________
